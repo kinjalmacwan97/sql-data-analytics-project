@@ -36,8 +36,8 @@ sql-data-analytics-project/
 │   ├── 10_Part_1_data_segmentation.sql
 │   ├── 10_Part_2_data_segmentation.sql
 │   ├── 11_part_to_whole_analysis.sql
-    ├── 12_customer_report.sql
-│   └── 12_product_report.sql
+│   ├── 12_customer_report.sql
+│   └── 13_product_report.sql
 │
 ├── LICENSE
 └── README.md
